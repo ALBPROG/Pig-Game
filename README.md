@@ -1,5 +1,8 @@
 # Pig-Game
 
+This is a summer project that I did to practice more on HTML5, CSS3, Javascript programming and DOM manipulation. 
+
+
 GAME RULES
 
 - The game has 2 players, playing in rounds
